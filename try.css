@@ -4,7 +4,7 @@
   font-family: Arial;
 }
 header{
-  background-image: url(./assets/images/bckg.png);
+  background-image: url(./bckg.png);
   height: fit-content;
   background-size: cover;
   background-position: center;
@@ -67,7 +67,7 @@ ul li a:hover{
   border : 0px solid black;
 }
 .shop_coffee{
-  background-image: url(./assets/images/coffee.jpg);
+  background-image: url(./coffee.jpg);
   opacity: 0.7;
   height: 400px;
   float: left;
@@ -96,7 +96,7 @@ ul li a:hover{
   color: skyblue;
 }
 .shop_mugs{
-  background-image: url(./assets/images/mugs.jpg);
+  background-image: url(./mugs.jpg);
   float: right;
   opacity: 0.75;
   height: 400px;
@@ -120,12 +120,12 @@ ul li a:hover{
   position: relative;
 }
 .pic2{
-  background-image: url(./assets/images/pic2.png);
+  background-image: url(./pic2.png);
   width: 100%;
   height: 100%;
 }
 .pic3{
-  background-image: url(./assets/images/contact-image.jpg);
+  background-image: url(./contact-image.jpg);
   height: 500px;
   position: relative;
 }
